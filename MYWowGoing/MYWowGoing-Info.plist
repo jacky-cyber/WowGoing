@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh_CN</string>
+	<key>CFBundleDisplayName</key>
+	<string>购引 - 西安</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon57.png</string>
+				<string>icon114.png</string>
+			</array>
+			<key>UIPrerenderedIcon</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.wowgoing.gouyin</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.3</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>sinaweibosso.1923335646</string>
+				<string>wx3d4f6fc7da88940a</string>
+				<string>MYWowGoing</string>
+				<string>QQC2956C2E</string>
+				<string>wb801173916</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.2.3</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>Partner</key>
+	<string>2088901165531852</string>
+	<key>RSA private key</key>
+	<string>MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAMaNilCc3UwVjFyUBypCKcdAPxYi8elo9WZgha5XwUThGd1jMPtbP1TVjz5NWarG2J4t602e5TJ+PLx62hzo28YdWXTcVp+hriAtt+CdXI5YBvi+PEQZxaneIQdiaVlNSfl6KzWCLh4LjypqpsdIVhJnuCicE0pf0Z8Vof3hVB/xAgMBAAECgYBvhIXgGwqsNhoc0UNo97pRYANO4peuujXCp4nNzxoNHsURNCoJs0lR05TdsEIhigeWaEIV2Z3vizl/vxyMSjlNAjYIVkXhcMghvPMiE8iIfY29JFEhuVXsFVwUymVTniFa6ecA6yYEFxo/9en7V6Yd10ikxPpxSvIAHPMCwyAGxQJBAOoE5JlJ34VWRqQLtwA5XiE8yqDVuvJWWNKPLS6g75YJY0uUbp4QwqYzp8JhDOcyQ8BWjybGSJZF9FK0Ee3fo9cCQQDZM9gfu1GEew0reGla9w0XcVrzwpboTSpeEtltTizIDin0y4Q98Y+TvmaJr3s0VW71rN04vmO47bAYnKZPueF3AkEArO0or00zaqgyUw6FEBlUQWNWqDrHhkPgJte+H3K1GD2frj3k79CaxY3uLWjhzAYMophT9+cVxFW1EVgW15wmyQJAI8HCMa8fw2SSjXZ8Oap0MEjMBVciismxUN1fh/wXqTOTuqYKdjwfO95beQ03hi0OYEl9/cpyFk6i79pSEsvyDwJAQ0B6onVXTQpuMxzDQuAkgzxZwSJlHcPRmlFW8H9kg2LtJHptQqpFiZfXVISvb7F92BNe5gXqfoBwmr36lEdZQA==</string>
+	<key>RSA public key</key>
+	<string>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/xcZKQRGnsn1RQpM9txcTMz1cXGPGvksUZp5uCyKiLR3WDtwdEFrFPz7BqaaZ5TfMxH1aOXgsZURZ0jeQJh4R+smTX9T/Fqmdi+hhmuN6934VAOFjAivQ+rxscslwk5PAFFXbz1BjS7/8Do+Yq9bVK3Wi3A7r3nFQgPDu3G81XQIDAQAB</string>
+	<key>Seller</key>
+	<string>2088901165531852</string>
+	<key>UIMainStoryboardFile</key>
+	<string>MainStoryboard</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UIStatusBarTintParameters</key>
+	<dict>
+		<key>UINavigationBar</key>
+		<dict>
+			<key>Style</key>
+			<string>UIBarStyleDefault</string>
+			<key>Translucent</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
